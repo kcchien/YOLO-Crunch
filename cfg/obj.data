@@ -1,0 +1,5 @@
+classes=1 
+train=~/YOLO-Crunch-DEV/cfg/train.txt  
+valid=~/YOLO-Crunch-DEV/cfg/test.txt  
+names=~/YOLO-Crunch-DEV/cfg/obj.names  
+backup=~/YOLO-Crunch-DEV/models
