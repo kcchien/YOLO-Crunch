@@ -2,7 +2,7 @@
 
 Achieve 10-15 FPS on Raspberry 3B+ using NNPack, OpenCV 3.4.0 and a custom micro-sized model
 
-Model designed for three or less object classes and not meant as a replacement or improvement to YOLO, Tiny-YOLO or Tiny Darknet.
+The custom model is designed for three or less object classes and not meant as a replacement or improvement to YOLO, Tiny-YOLO or Tiny Darknet.
 
 Included model predicts a single class, 'person'.
 
