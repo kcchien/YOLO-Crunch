@@ -11,6 +11,9 @@ Optimization of Raspberry Pi 3 - https://www.pyimagesearch.com/2017/10/09/optimi
 NNPack for Darknet - https://github.com/digitalbrain79/darknet-nnpack
 *NOTE: Darknet Demo in NNPack does not work yet, but I will create an updated demo.c here soon to allow fast this live video.  Check back soon.
 
+If you enjoy using my model, please cite me: 
+Andrew Craton, YOLO-Crunch, (2018), GitHub repository, https://github.com/spinoza1791/YOLO-Crunch
+
 Base [Darknet](https://github.com/pjreddie/darknet)
 
 https://pjreddie.com/darknet/yolov2/
