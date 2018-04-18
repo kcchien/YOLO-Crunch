@@ -1,4 +1,4 @@
-# YOLO-Crunch-DEV
+# YOLO-Crunch - In development
 
 Achieve 10-15 FPS on Raspberry 3B+ using NNPack, OpenCV 3.4.0 and a micro-sized model
 
